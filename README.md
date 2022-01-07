@@ -7,7 +7,7 @@
   <img align="center" alt="Edgar-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Edgar-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Edgar-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Edgar-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/ffe899efacec8a6df3f5c8f11a86316d/ea2bf2ca2b9baa88-36/s500x750/5f5195d449abc8bfc9a3556472f9fc533ac80fa3.png">
+  <img align="right" alt="Edgar-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/67760045?v=4">
 </div>
   
   ##
